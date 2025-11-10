@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Alan Thomas | MCA Student Portfolio</title>
+
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- Tailwind Config -->
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: { sans: ['Inter', 'sans-serif'] },
+          colors: {
+            'primary-dark': '#0f172a',
+            'secondary-dark': '#1e293b',
+            'accent-teal': '#0d9488',
+            'text-light': '#f1f5f9',
+            'text-secondary': '#94a3b8',
+          }
+        }
+      }
+    };
+  </script>
+
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+
+  <style>
+    ::-webkit-scrollbar { width: 8px; }
+    ::-webkit-scrollbar-thumb { background: #475569; border-radius: 4px; }
+    ::-webkit-scrollbar-track { background: #1e293b; }
+    html { scroll-behavior: smooth; }
+    .section-padding { padding-top: 5rem; padding-bottom: 5rem; }
+  </style>
+</head>
+
+<body class="bg-primary-dark font-sans text-text-light">
+  <!-- Header -->
+  <header class="sticky top-0 z-50 bg-primary-dark/95 backdrop-blur-sm border-b border-secondary-dark shadow-xl">
+    <nav class="container mx-auto px-4 sm:px-6 lg:px-8 py-4 flex justify-between items-center">
+      <a href="#" class="text-xl font-extrabold text-accent-teal tracking-wider">Alan Thomas</a>
+      <div class="hidden md:flex space-x-8">
+        <a href="#about" class="text-text-secondary hover:text-accent-teal">About</a>
+        <a href="#skills" class="text-text-secondary hover:text-accent-teal">Skills</a>
+        <a href="#projects" class="text-text-secondary hover:text-accent-teal">Projects</a>
+        <a href="#certificates" class="text-text-secondary hover:text-accent-teal">Certificates</a>
+        <a href="#contact" class="text-text-secondary hover:text-accent-teal">Contact</a>
+      </div>
+      <button id="mobile-menu-btn" class="md:hidden text-text-light p-2 rounded-lg hover:bg-secondary-dark">
+        <i data-lucide="menu"></i>
+      </button>
+    </nav>
+    <div id="mobile-menu" class="hidden md:hidden border-t border-secondary-dark px-4 pb-2">
+      <a href="#about" class="block py-2 text-text-light hover:text-accent-teal">About</a>
+      <a href="#skills" class="block py-2 text-text-light hover:text-accent-teal">Skills</a>
+      <a href="#projects" class="block py-2 text-text-light hover:text-accent-teal">Projects</a>
+      <a href="#certificates" class="block py-2 text-text-light hover:text-accent-teal">Certificates</a>
+      <a href="#contact" class="block py-2 text-text-light hover:text-accent-teal">Contact</a>
+    </div>
+  </header>
+
+  <main>
+    <!-- Hero Section -->
+    <section id="hero" class="h-screen flex items-center justify-center text-center px-4 md:px-8">
+      <div class="max-w-4xl space-y-6">
+        <h1 class="text-6xl sm:text-7xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-accent-teal to-text-light">
+          Alan Thomas
+        </h1>
+        <p class="text-2xl text-text-secondary">
+          MCA Student at <span class="text-text-light">LEAD College, Palakkad</span>
+        </p>
+        <p class="text-lg text-text-secondary max-w-2xl mx-auto">
+          A dedicated scholar exploring software architecture and data engineering principles.
+        </p>
+        <div class="pt-8">
+          <a href="#projects" class="inline-flex items-center px-8 py-3 rounded-full bg-accent-teal text-primary-dark font-medium hover:bg-teal-600 transition transform hover:scale-[1.02] shadow-xl">
+            View Projects <i data-lucide="arrow-right" class="ml-2"></i>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="section-padding bg-secondary-dark">
+      <div class="container mx-auto px-4 max-w-5xl">
+        <h2 class="text-4xl font-bold mb-12 text-center border-b-2 border-accent-teal/50 pb-2 inline-block">
+          About Me
+        </h2>
+        <div class="grid md:grid-cols-2 gap-12 items-center">
+          <div class="flex justify-center">
+            <div class="w-64 h-64 bg-accent-teal/10 rounded-full flex items-center justify-center border-4 border-accent-teal/50 shadow-2xl">
+              <div class="text-7xl font-bold text-accent-teal opacity-50">AT</div>
+            </div>
+          </div>
+          <div class="space-y-6 text-text-secondary text-lg">
+            <p>
+              I’m an <b>MCA student</b> passionate about creating efficient, scalable systems that balance innovation and reliability.
+            </p>
+            <p>
+              I enjoy solving complex problems through <b>Web Development</b> and <b>Data Engineering</b>.
+            </p>
+            <p>
+              My goal is to apply academic learning in real-world projects and make impactful contributions.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills" class="section-padding">
+      <div class="container mx-auto px-4 max-w-5xl">
+        <h2 class="text-4xl font-bold mb-12 text-center border-b-2 border-accent-teal/50 pb-2 inline-block">
+          Technical Skills
+        </h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 max-w-xl mx-auto">
+          <div class="p-6 bg-secondary-dark rounded-xl shadow-lg border border-accent-teal/10 hover:scale-[1.03] transition">
+            <i data-lucide="code-square" class="text-accent-teal mb-3" width="32" height="32"></i>
+            <h3 class="text-xl font-semibold text-text-light">Programming</h3>
+            <p class="text-text-secondary text-sm mt-1">Python, Java, C++, JavaScript</p>
+          </div>
+          <div class="p-6 bg-secondary-dark rounded-xl shadow-lg border border-accent-teal/10 hover:scale-[1.03] transition">
+            <i data-lucide="globe" class="text-accent-teal mb-3" width="32" height="32"></i>
+            <h3 class="text-xl font-semibold text-text-light">Web Development</h3>
+            <p class="text-text-secondary text-sm mt-1">HTML, CSS (Tailwind), React, Node.js</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="section-padding bg-secondary-dark">
+      <div class="container mx-auto px-4 max-w-5xl">
+        <h2 class="text-4xl font-bold mb-12 text-center border-b-2 border-accent-teal/50 pb-2 inline-block">
+          Featured Projects
+        </h2>
+        <div class="grid md:grid-cols-2 gap-8">
+
+          <!-- Bitcoin Prediction Project -->
+          <div class="p-6 bg-primary-dark rounded-lg shadow-xl border border-accent-teal/20">
+            <h3 class="text-2xl font-semibold text-accent-teal mb-2">Bitcoin Price Prediction Using Machine Learning</h3>
+            <p class="text-text-secondary mb-4">
+              Bitcoin price prediction project using Python-based Machine Learning models (Random Forest, LSTM) and Twitter sentiment analysis to forecast cryptocurrency trends.
+            <div class="flex flex-wrap gap-2 text-sm">
+              <span class="bg-accent-teal/20 text-accent-teal px-3 py-1 rounded-full">Python</span>
+              <span class="bg-accent-teal/20 text-accent-teal px-3 py-1 rounded-full">Machine Learning</span>
+              <span class="bg-accent-teal/20 text-accent-teal px-3 py-1 rounded-full">Random Forest</span>
+              <span class="bg-accent-teal/20 text-accent-teal px-3 py-1 rounded-full">LSTM</span>
+              <span class="bg-accent-teal/20 text-accent-teal px-3 py-1 rounded-full">Sentiment Analysis</span>
+            </div>
+            <div class="mt-4 flex flex-wrap gap-4 text-sm">
+              <a href="https://github.com/yourusername/bitcoin-price-prediction" target="_blank" class="text-accent-teal font-medium hover:underline">
+                View on GitHub →
+              </a>
+              <a href="projects/Tweet_Bitcoin_price_final(2).html" target="_blank" class="text-accent-teal font-medium hover:underline">
+                Live Demo →
+              </a>
+            </div>
+          </div>
+
+          <!-- Project 2 -->
+          <div class="p-6 bg-primary-dark rounded-lg shadow-xl border border-accent-teal/20">
+            <h3 class="text-2xl font-semibold text-accent-teal mb-2">Handwritten Digit Recognition Using CNN</h3>
+            <p class="text-text-secondary mb-4">
+             A deep learning project that classifies handwritten digits from the MNIST dataset using a Convolutional Neural Network (CNN) implemented in TensorFlow and Keras. The model is trained and evaluated for accuracy and deployed using Streamlit for interactive real-time predictions through a user-friendly web interface.
+            </p>
+            <div class="flex flex-wrap gap-2 text-sm">
+              <span class="bg-accent-teal/20 text-accent-teal px-3 py-1 rounded-full">Python</span>
+              <span class="bg-accent-teal/20 text-accent-teal px-3 py-1 rounded-full">Deep Learning</span>
+              <span class="bg-accent-teal/20 text-accent-teal px-3 py-1 rounded-full">CNN</span>
+              <span class="bg-accent-teal/20 text-accent-teal px-3 py-1 rounded-full">TensorFlow</span>
+              <span class="bg-accent-teal/20 text-accent-teal px-3 py-1 rounded-full">Keras</span>
+              <span class="bg-accent-teal/20 text-accent-teal px-3 py-1 rounded-full">Streamlit</span>
+              <span class="bg-accent-teal/20 text-accent-teal px-3 py-1 rounded-full">MNIST Dataset</span>
+            </div>
+            <div class="mt-4 flex flex-wrap gap-4 text-sm">
+              <a href="https://github.com/Alanatk/MNIST_digit_recognition.git" target="_blank" class="text-accent-teal font-medium hover:underline">
+                View on GitHub →
+              </a>
+              <a href="https://mnistdigitrecognition.streamlit.app/" target="_blank" class="text-accent-teal font-medium hover:underline">
+                Live Demo →
+              </a>
+            </div>
+          </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- Certificates Section -->
+    <section id="certificates" class="section-padding">
+      <div class="container mx-auto px-4 max-w-5xl">
+        <h2 class="text-4xl font-bold mb-12 text-center border-b-2 border-accent-teal/50 pb-2 inline-block">
+          Certificates
+        </h2>
+
+        <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-8">
+          <!-- IBM -->
+          <div class="p-6 bg-secondary-dark rounded-xl shadow-lg border border-accent-teal/10 hover:scale-[1.03] transition">
+            <h3 class="text-xl font-semibold text-text-light mb-2">Getting Started with Artificial Intelligence</h3>
+            <p class="text-text-secondary text-sm">IBM SkillsBuild | Mar 2025</p>
+            <a href="https://www.credly.com/badges/02409d70-6afd-4402-9ef3-15700fb6a79c" target="_blank" class="text-accent-teal text-sm font-medium hover:underline mt-2 inline-block">Verify on Credly →</a>
+            <a href="certificates/IBMDesign20250303-27-m6d54z.pdf" target="_blank" class="block text-sm text-text-secondary hover:text-accent-teal mt-1">View PDF →</a>
+          </div>
+
+          <!-- Oracle -->
+          <div class="p-6 bg-secondary-dark rounded-xl shadow-lg border border-accent-teal/10 hover:scale-[1.03] transition">
+            <h3 class="text-xl font-semibold text-text-light mb-2">Oracle Cloud Infrastructure 2023 Certified Foundations Associate</h3>
+            <p class="text-text-secondary text-sm">Oracle | Mar 2024</p>
+            <a href="certificates/Oracle Certificate (1).pdf" target="_blank" class="text-accent-teal text-sm font-medium hover:underline mt-2 inline-block">View PDF →</a>
+          </div>
+
+          <!-- ServiceNow -->
+          <div class="p-6 bg-secondary-dark rounded-xl shadow-lg border border-accent-teal/10 hover:scale-[1.03] transition">
+            <h3 class="text-xl font-semibold text-text-light mb-2">Micro-Certification - Welcome to ServiceNow</h3>
+            <p class="text-text-secondary text-sm">ServiceNow | Jan 2025</p>
+            <a href="certificates/Micro-Certification - Welcome to ServiceNow (1).pdf" target="_blank" class="text-accent-teal text-sm font-medium hover:underline mt-2 inline-block">View PDF →</a>
+          </div>
+
+          <!-- Naan Mudhalvan -->
+          <div class="p-6 bg-secondary-dark rounded-xl shadow-lg border border-accent-teal/10 hover:scale-[1.03] transition">
+            <h3 class="text-xl font-semibold text-text-light mb-2">Naan Mudhalvan Robotic Process Automation Foundation Course</h3>
+            <p class="text-text-secondary text-sm">Naan Mudhalvan | Sep 2024</p>
+            <a href="certificates/LearningPath_Certificate_09252024104302004.pdf" target="_blank" class="text-accent-teal text-sm font-medium hover:underline mt-2 inline-block">View PDF →</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section-padding">
+      <div class="container mx-auto px-4 max-w-2xl text-center">
+        <h2 class="text-4xl font-bold mb-6 border-b-2 border-accent-teal/50 pb-2 inline-block">Get In Touch</h2>
+        <p class="text-lg text-text-secondary mb-10">
+          I’m open to internships and collaborations. Let’s connect!
+        </p>
+        <div class="p-8 bg-secondary-dark rounded-xl shadow-2xl border border-accent-teal/20">
+          <form action="mailto:your.email@example.com" method="post" enctype="text/plain" class="space-y-6">
+            <input type="text" name="name" placeholder="Your Name" required class="w-full px-4 py-3 bg-primary-dark border border-secondary-dark rounded-lg text-text-light focus:ring-accent-teal focus:border-accent-teal" />
+            <input type="email" name="email" placeholder="Your Email" required class="w-full px-4 py-3 bg-primary-dark border border-secondary-dark rounded-lg text-text-light focus:ring-accent-teal focus:border-accent-teal" />
+            <textarea name="body" placeholder="Your Message" rows="5" required class="w-full px-4 py-3 bg-primary-dark border border-secondary-dark rounded-lg text-text-light focus:ring-accent-teal focus:border-accent-teal"></textarea>
+            <button type="submit" class="w-full px-8 py-3 text-lg font-semibold rounded-lg shadow-lg text-primary-dark bg-accent-teal hover:bg-teal-600 transition">
+              Send Message
+            </button>
+          </form>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-secondary-dark mt-12 border-t border-primary-dark">
+    <div class="container mx-auto px-4 py-8 text-center">
+      <div class="flex justify-center space-x-6 mb-4">
+        <a href="#" class="text-text-secondary hover:text-accent-teal"><i data-lucide="linkedin"></i></a>
+        <a href="#" class="text-text-secondary hover:text-accent-teal"><i data-lucide="github"></i></a>
+        <a href="#" class="text-text-secondary hover:text-accent-teal"><i data-lucide="mail"></i></a>
+      </div>
+      <p class="text-sm text-text-secondary">
+        &copy; <span id="current-year"></span> Alan Thomas. All rights reserved.
+      </p>
+    </div>
+  </footer>
+
+  <!-- JS -->
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const menuBtn = document.getElementById("mobile-menu-btn");
+      const mobileMenu = document.getElementById("mobile-menu");
+      menuBtn.addEventListener("click", () => mobileMenu.classList.toggle("hidden"));
+      mobileMenu.querySelectorAll("a").forEach(link => link.addEventListener("click", () => mobileMenu.classList.add("hidden")));
+      document.getElementById("current-year").textContent = new Date().getFullYear();
+      lucide.createIcons();
+    });
+  </script>
+</body>
+</html>
