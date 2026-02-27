@@ -45,6 +45,8 @@
       <a href="#" class="text-xl font-extrabold text-accent-teal tracking-wider">Alan Thomas</a>
       <div class="hidden md:flex space-x-8">
         <a href="#about" class="text-text-secondary hover:text-accent-teal">About</a>
+        <!-- NEW: Education link -->
+        <a href="#education" class="text-text-secondary hover:text-accent-teal">Education</a>
         <a href="#skills" class="text-text-secondary hover:text-accent-teal">Skills</a>
         <a href="#projects" class="text-text-secondary hover:text-accent-teal">Projects</a>
         <a href="#certificates" class="text-text-secondary hover:text-accent-teal">Certificates</a>
@@ -56,6 +58,8 @@
     </nav>
     <div id="mobile-menu" class="hidden md:hidden border-t border-secondary-dark px-4 pb-2">
       <a href="#about" class="block py-2 text-text-light hover:text-accent-teal">About</a>
+      <!-- NEW: Education link in mobile -->
+      <a href="#education" class="block py-2 text-text-light hover:text-accent-teal">Education</a>
       <a href="#skills" class="block py-2 text-text-light hover:text-accent-teal">Skills</a>
       <a href="#projects" class="block py-2 text-text-light hover:text-accent-teal">Projects</a>
       <a href="#certificates" class="block py-2 text-text-light hover:text-accent-teal">Certificates</a>
@@ -63,26 +67,88 @@
     </div>
   </header>
 
-  <main>
-    <!-- Hero Section -->
-    <section id="hero" class="h-screen flex items-center justify-center text-center px-4 md:px-8">
-      <div class="max-w-4xl space-y-6">
-        <h1 class="text-6xl sm:text-7xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-accent-teal to-text-light">
-          Alan Thomas
-        </h1>
-        <p class="text-2xl text-text-secondary">
-          MCA Student at <span class="text-text-light">LEAD College, Palakkad</span>
-        </p>
-        <p class="text-lg text-text-secondary max-w-2xl mx-auto">
-          A dedicated scholar exploring software architecture and data engineering principles.
-        </p>
-        <div class="pt-8">
-          <a href="#projects" class="inline-flex items-center px-8 py-3 rounded-full bg-accent-teal text-primary-dark font-medium hover:bg-teal-600 transition transform hover:scale-[1.02] shadow-xl">
-            View Projects <i data-lucide="arrow-right" class="ml-2"></i>
+ <main>
+  <!-- Hero Section -->
+  <section id="hero" class="h-screen flex items-center justify-center text-center px-4 md:px-8">
+    <div class="max-w-4xl space-y-6">
+
+      <h1 class="text-6xl sm:text-7xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-accent-teal to-text-light">
+        Alan Thomas
+      </h1>
+
+      <p class="text-2xl text-text-secondary">
+        MCA Student at <span class="text-text-light">LEAD College, Palakkad</span>
+      </p>
+
+      <p class="text-lg text-text-secondary max-w-2xl mx-auto">
+        A dedicated scholar exploring software architecture and data engineering principles.
+      </p>
+
+      <!-- STEP 1: Social Icons + Download CV -->
+      <div class="flex flex-col items-center gap-6 pt-6">
+
+        <!-- Social Icons -->
+        <div class="flex gap-4">
+          <!-- LinkedIn -->
+          <a href="https://www.linkedin.com/in/alan-thomas-b30885276/"
+             target="_blank"
+             aria-label="LinkedIn"
+             class="w-11 h-11 rounded-full border border-accent-teal text-accent-teal
+                    flex items-center justify-center
+                    hover:bg-accent-teal hover:text-primary-dark
+                    transition shadow-lg">
+            <i data-lucide="linkedin"></i>
+          </a>
+
+          <!-- GitHub -->
+          <a href="https://github.com/Alanatk"
+             target="_blank"
+             aria-label="GitHub"
+             class="w-11 h-11 rounded-full border border-accent-teal text-accent-teal
+                    flex items-center justify-center
+                    hover:bg-accent-teal hover:text-primary-dark
+                    transition shadow-lg">
+            <i data-lucide="github"></i>
+          </a>
+
+          <!-- Medium -->
+          <a href="https://medium.com/@your-medium-username"
+             target="_blank"
+             aria-label="Medium"
+             class="w-11 h-11 rounded-full border border-accent-teal text-accent-teal
+                    flex items-center justify-center
+                    hover:bg-accent-teal hover:text-primary-dark
+                    transition shadow-lg font-bold">
+            M
           </a>
         </div>
+
+        <!-- Download CV Button -->
+        <a href="files/Alan_Thomas_CV.pdf"
+           download
+           class="px-10 py-3 rounded-full bg-accent-teal text-primary-dark font-semibold
+                  shadow-[0_0_25px_rgba(13,148,136,0.7)]
+                  hover:shadow-[0_0_40px_rgba(13,148,136,1)]
+                  transition">
+          Download CV
+        </a>
+
       </div>
-    </section>
+
+      <!-- View Projects Button -->
+      <div class="pt-8">
+        <a href="#projects"
+           class="inline-flex items-center px-8 py-3 rounded-full bg-accent-teal
+                  text-primary-dark font-medium hover:bg-teal-600
+                  transition transform hover:scale-[1.02] shadow-xl">
+          View Projects <i data-lucide="arrow-right" class="ml-2"></i>
+        </a>
+      </div>
+
+    </div>
+  </section>
+</main>
+
 
     <!-- About Section -->
     <section id="about" class="section-padding bg-secondary-dark">
@@ -105,6 +171,54 @@
             </p>
             <p>
               My goal is to apply academic learning in real-world projects and make impactful contributions.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- NEW: Education Section -->
+    <section id="education" class="section-padding">
+      <div class="container mx-auto px-4 max-w-5xl">
+        <h2 class="text-4xl font-bold mb-12 text-center border-b-2 border-accent-teal/50 pb-2 inline-block">
+          Education
+        </h2>
+
+        <!-- Timeline style -->
+        <div class="space-y-10">
+          <!-- MCA -->
+          <div class="relative pl-8 border-l border-accent-teal/40">
+            <span class="absolute -left-[9px] top-1 w-4 h-4 rounded-full bg-accent-teal"></span>
+            <h3 class="text-2xl font-semibold text-text-light">
+              Master of Computer Applications (MCA)
+            </h3>
+            <p class="text-text-secondary">
+              LEAD College , Palakkad
+            </p>
+            <p class="text-sm text-text-secondary mt-1">
+              Year: <span class="text-text-light">[2025 – Present]</span>
+            </p>
+            <p class="text-sm text-text-secondary mt-2">
+              <!-- Optional short description -->
+              Focus on software development, data structures, web technologies, and project-based learning.
+            </p>
+          </div>
+
+          <!-- UG -->
+          <div class="relative pl-8 border-l border-accent-teal/40">
+            <span class="absolute -left-[9px] top-1 w-4 h-4 rounded-full bg-accent-teal"></span>
+            <h3 class="text-2xl font-semibold text-text-light">
+               Bachelor of Computer Applications <!-- e.g., Bachelor of Computer Applications (BCA) -->
+            </h3>
+            <p class="text-text-secondary">
+              Sree Narayana Guru College
+            </p>
+            <p class="text-sm text-text-secondary mt-1">
+              Year: <span class="text-text-light">[2022 – 2025]</span>
+            </p>
+            <p class="text-sm text-text-secondary mt-2">
+              <!-- Optional short description -->
+              Briefly describe your specialization or achievements here.
             </p>
           </div>
         </div>
@@ -145,6 +259,7 @@
             <h3 class="text-2xl font-semibold text-accent-teal mb-2">Bitcoin Price Prediction Using Machine Learning</h3>
             <p class="text-text-secondary mb-4">
               Bitcoin price prediction project using Python-based Machine Learning models (Random Forest, LSTM) and Twitter sentiment analysis to forecast cryptocurrency trends.
+            </p>
             <div class="flex flex-wrap gap-2 text-sm">
               <span class="bg-accent-teal/20 text-accent-teal px-3 py-1 rounded-full">Python</span>
               <span class="bg-accent-teal/20 text-accent-teal px-3 py-1 rounded-full">Machine Learning</span>
@@ -166,7 +281,7 @@
           <div class="p-6 bg-primary-dark rounded-lg shadow-xl border border-accent-teal/20">
             <h3 class="text-2xl font-semibold text-accent-teal mb-2">Handwritten Digit Recognition Using CNN</h3>
             <p class="text-text-secondary mb-4">
-             A deep learning project that classifies handwritten digits from the MNIST dataset using a Convolutional Neural Network (CNN) implemented in TensorFlow and Keras. The model is trained and evaluated for accuracy and deployed using Streamlit for interactive real-time predictions through a user-friendly web interface.
+              A deep learning project that classifies handwritten digits from the MNIST dataset using a Convolutional Neural Network (CNN) implemented in TensorFlow and Keras. The model is trained and evaluated for accuracy and deployed using Streamlit for interactive real-time predictions through a user-friendly web interface.
             </p>
             <div class="flex flex-wrap gap-2 text-sm">
               <span class="bg-accent-teal/20 text-accent-teal px-3 py-1 rounded-full">Python</span>
@@ -186,8 +301,6 @@
               </a>
             </div>
           </div>
-          </div>
-
         </div>
       </div>
     </section>
@@ -253,19 +366,54 @@
     </section>
   </main>
 
-  <!-- Footer -->
-  <footer class="bg-secondary-dark mt-12 border-t border-primary-dark">
-    <div class="container mx-auto px-4 py-8 text-center">
-      <div class="flex justify-center space-x-6 mb-4">
-        <a href="#" class="text-text-secondary hover:text-accent-teal"><i data-lucide="linkedin"></i></a>
-        <a href="#" class="text-text-secondary hover:text-accent-teal"><i data-lucide="github"></i></a>
-        <a href="#" class="text-text-secondary hover:text-accent-teal"><i data-lucide="mail"></i></a>
-      </div>
-      <p class="text-sm text-text-secondary">
-        &copy; <span id="current-year"></span> Alan Thomas. All rights reserved.
-      </p>
+<!-- Footer -->
+<footer class="bg-secondary-dark border-t border-primary-dark">
+  <div class="container mx-auto px-4 py-8 text-center">
+
+    <!-- Social Icons -->
+    <div class="flex justify-center space-x-6 mb-4">
+      <!-- LinkedIn -->
+      <a href="https://www.linkedin.com/in/alan-thomas-b30885276/"
+         target="_blank"
+         rel="noopener noreferrer"
+         aria-label="LinkedIn"
+         class="text-text-secondary hover:text-accent-teal transition inline-flex items-center justify-center w-10 h-10">
+        <span class="pointer-events-none">
+          <i data-lucide="linkedin"></i>
+        </span>
+      </a>
+
+      <!-- GitHub -->
+      <a href="https://github.com/Alanatk"
+         target="_blank"
+         rel="noopener noreferrer"
+         aria-label="GitHub"
+         class="text-text-secondary hover:text-accent-teal transition inline-flex items-center justify-center w-10 h-10">
+        <span class="pointer-events-none">
+          <i data-lucide="github"></i>
+        </span>
+      </a>
+
+      <!-- Email -->
+      <a href="mailto:alanthomask77@gmail.com"
+         aria-label="Email"
+         class="text-text-secondary hover:text-accent-teal transition inline-flex items-center justify-center w-10 h-10">
+        <span class="pointer-events-none">
+          <i data-lucide="mail"></i>
+        </span>
+      </a>
     </div>
-  </footer>
+
+    <!-- Copyright -->
+    <p class="text-sm text-text-secondary">
+      © <span id="current-year"></span> Alan Thomas. All rights reserved.
+    </p>
+
+  </div>
+</footer>
+
+
+
 
   <!-- JS -->
   <script>
