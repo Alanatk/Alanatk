@@ -1,12 +1,12 @@
 <h1 align="center">Alan Thomas</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=900&lines=MCA+Student;Web+Developer;Python+Developer;Cloud+and+DevOps+Enthusiast;Always+Learning+New+Technologies" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=MCA+Student;Web+Developer;Python+Developer;Cloud+%26+DevOps+Enthusiast;Always+Learning+New+Technologies" alt="Typing Animation" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Alanatk">
-    <img src="https://komarev.com/ghpvc/?username=Alanatk&label=Profile+Views&style=flat-square">
+    <img src="https://komarev.com/ghpvc/?username=Alanatk&label=Profile+Views&style=flat-square" alt="Profile Views"/>
   </a>
 </p>
 
@@ -16,11 +16,11 @@
 
 I am currently pursuing a Master of Computer Applications (MCA) at LEAD College of Management.
 
-I enjoy building web applications, learning cloud technologies, and improving my software development skills through practical projects.
+I enjoy building modern web applications, learning cloud technologies, and continuously improving my software development skills through practical projects.
 
 ---
 
-# Technical Skills
+# Technical Expertise
 
 ### Programming Languages
 
@@ -63,9 +63,9 @@ I enjoy building web applications, learning cloud technologies, and improving my
 
 ## Portfolio Website
 
-Personal portfolio showcasing my projects, skills and experience.
+Personal portfolio showcasing my projects and technical skills.
 
-Live Demo
+**Live Demo**
 
 https://alan-thomas-portfolio.vercel.app/
 
@@ -73,9 +73,9 @@ https://alan-thomas-portfolio.vercel.app/
 
 ## MNIST Digit Recognition
 
-Deep Learning application developed using TensorFlow and Keras.
+Deep learning project using TensorFlow and Keras for handwritten digit recognition.
 
-Live Demo
+**Live Demo**
 
 https://mnistdigitrecognition.streamlit.app/
 
@@ -83,15 +83,15 @@ https://mnistdigitrecognition.streamlit.app/
 
 ## Bitcoin Price Prediction
 
-Machine Learning project using historical market data and sentiment analysis.
+Machine learning project that predicts Bitcoin prices using historical data and sentiment analysis.
 
 ---
 
 ## Memory Card Matching Game
 
-Interactive browser-based memory game built with HTML, CSS and JavaScript.
+Interactive browser game built with HTML, CSS and JavaScript.
 
-Repository
+**Repository**
 
 https://github.com/Alanatk/memory-card-matching-game
 
@@ -99,9 +99,9 @@ https://github.com/Alanatk/memory-card-matching-game
 
 ## Smart eCommerce Checkout Workflow
 
-Responsive checkout workflow built using React.
+Responsive checkout workflow developed with React.
 
-Live Demo
+**Live Demo**
 
 https://alanatk.github.io/smart-ecommerce-checkout-workflow/
 
@@ -110,11 +110,8 @@ https://alanatk.github.io/smart-ecommerce-checkout-workflow/
 # GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Alanatk&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanatk&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alanatk&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanatk&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -122,9 +119,7 @@ https://alanatk.github.io/smart-ecommerce-checkout-workflow/
 # GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Alanatk&theme=github-dark&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Alanatk&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -132,9 +127,7 @@ https://alanatk.github.io/smart-ecommerce-checkout-workflow/
 # Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanatk&theme=github-dark"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanatk&theme=tokyo-night"/>
 </p>
 
 ---
@@ -142,51 +135,50 @@ https://alanatk.github.io/smart-ecommerce-checkout-workflow/
 # GitHub Summary
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alanatk&theme=github_dark"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alanatk&theme=github_dark"/>
 </p>
 
 ---
 
 # Contribution Snake
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Alanatk/Alanatk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alanatk/Alanatk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alanatk/Alanatk/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Alanatk/Alanatk/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-# Currently Learning
+# Current Learning
 
 - React.js
-- Node.js
 - Docker
 - Kubernetes
 - AWS Cloud
 - REST APIs
-- DevOps
 - Cloud Architecture
+- DevOps Practices
 
 ---
 
-# Connect
-
-GitHub
-
-https://github.com/Alanatk
-
-Portfolio
+# Portfolio
 
 https://alan-thomas-portfolio.vercel.app/
 
-Email
+---
+
+# Contact
+
+**GitHub**
+
+https://github.com/Alanatk
+
+**Email**
 
 alanthomask77@gmail.com
 
-LinkedIn
+**LinkedIn**
 
 https://www.linkedin.com/in/alan-thomas-b30885276/
 
@@ -194,14 +186,14 @@ https://www.linkedin.com/in/alan-thomas-b30885276/
 
 # Quote
 
-> "Continuous learning and consistent practice build great software."
+> "Continuous learning and consistent practice lead to better software."
 
 ---
 
 <p align="center">
-Thanks for visiting my GitHub profile.
+  Thank you for visiting my GitHub profile.
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:2563EB&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:2563EB&section=footer"/>
 </p>
