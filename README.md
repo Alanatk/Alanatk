@@ -1,12 +1,12 @@
 <h1 align="center">Alan Thomas</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=900&lines=MCA+Student;Web+Developer;Python+Developer;Cloud+and+DevOps+Enthusiast;Always+Learning+New+Technologies" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=900&lines=MCA+Student;Web+Developer;Python+Developer;Cloud+and+DevOps+Enthusiast;Always+Learning+New+Technologies" alt="Typing Animation">
 </p>
 
 <p align="center">
   <a href="https://github.com/Alanatk">
-    <img src="https://komarev.com/ghpvc/?username=Alanatk&label=Profile%20Views&style=flat-square" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Alanatk&label=Profile+Views&style=flat-square" alt="Profile Views">
   </a>
 </p>
 
@@ -14,58 +14,46 @@
 
 ## About Me
 
-I am currently pursuing a Master of Computer Applications (MCA) at LEAD College of Management.
+I am an MCA student at LEAD College of Management with a strong interest in web development, cloud computing, and DevOps. I enjoy building practical software projects and continuously improving my programming and problem-solving skills.
 
-I enjoy building responsive web applications, learning cloud technologies, and improving my software development skills through real-world projects.
+---
 
-**Areas of Interest**
+## Technical Skills
 
-- Web Development
-- Python Programming
-- Cloud Computing
-- DevOps
+**Programming Languages**
+
+- Python
+- Java
+- JavaScript
+- HTML5
+- CSS3
+
+**Frontend**
+
 - React
-- Machine Learning
+- HTML
+- CSS
+- JavaScript
 
----
+**Backend**
 
-## Portfolio
+- Node.js
 
-Portfolio Website
+**Database**
 
-https://alan-thomas-portfolio.vercel.app/
+- MySQL
 
----
+**Cloud & DevOps**
 
-## Tech Stack
+- AWS
+- Docker
+- Git
+- GitHub
 
-Python
+**Development Tools**
 
-Java
-
-HTML5
-
-CSS3
-
-JavaScript
-
-React
-
-Node.js
-
-MySQL
-
-Git
-
-GitHub
-
-Docker
-
-AWS
-
-Linux
-
-Visual Studio Code
+- Visual Studio Code
+- Linux
 
 ---
 
@@ -73,7 +61,9 @@ Visual Studio Code
 
 ### Portfolio Website
 
-Personal portfolio showcasing my projects, technical skills, and achievements.
+Personal portfolio showcasing my projects, technical skills and experience.
+
+Live Demo
 
 https://alan-thomas-portfolio.vercel.app/
 
@@ -83,19 +73,23 @@ https://alan-thomas-portfolio.vercel.app/
 
 Deep learning application developed using TensorFlow and Keras for handwritten digit recognition.
 
+Live Demo
+
 https://mnistdigitrecognition.streamlit.app/
 
 ---
 
 ### Bitcoin Price Prediction
 
-Machine learning project that predicts Bitcoin prices using historical data and sentiment analysis.
+Machine learning project for predicting Bitcoin prices using historical market data and sentiment analysis.
 
 ---
 
 ### Memory Card Matching Game
 
-Interactive browser-based memory game built using HTML, CSS, and JavaScript.
+Interactive browser-based memory game built using HTML, CSS and JavaScript.
+
+Repository
 
 https://github.com/Alanatk/memory-card-matching-game
 
@@ -105,6 +99,8 @@ https://github.com/Alanatk/memory-card-matching-game
 
 Responsive checkout workflow developed using React.
 
+Live Demo
+
 https://alanatk.github.io/smart-ecommerce-checkout-workflow/
 
 ---
@@ -112,9 +108,8 @@ https://alanatk.github.io/smart-ecommerce-checkout-workflow/
 ## GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Alanatk&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanatk&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alanatk&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanatk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800">
 </p>
 
 ---
@@ -122,7 +117,7 @@ https://alanatk.github.io/smart-ecommerce-checkout-workflow/
 ## GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alanatk&theme=github-dark-blue&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alanatk&theme=tokyonight&hide_border=true">
 </p>
 
 ---
@@ -130,15 +125,15 @@ https://alanatk.github.io/smart-ecommerce-checkout-workflow/
 ## Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanatk&theme=github-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanatk&theme=tokyo-night">
 </p>
 
 ---
 
-## GitHub Trophies
+## GitHub Summary
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Alanatk&theme=darkhub&column=4&no-frame=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alanatk&theme=github_dark">
 </p>
 
 ---
@@ -152,22 +147,14 @@ https://alanatk.github.io/smart-ecommerce-checkout-workflow/
 - AWS Cloud
 - REST APIs
 - Cloud Architecture
-- DevOps Practices
-
----
-
-## GitHub Activity
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alanatk&theme=github_dark"/>
-</p>
+- DevOps
 
 ---
 
 ## Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Alanatk/Alanatk/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/Alanatk/Alanatk/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
@@ -178,30 +165,26 @@ GitHub
 
 https://github.com/Alanatk
 
-LinkedIn
+Portfolio
 
-Add your LinkedIn profile here
+https://alan-thomas-portfolio.vercel.app/
 
 Email
 
 alanthomask77@gmail.com
 
-Portfolio
+LinkedIn
 
-https://alan-thomas-portfolio.vercel.app/
+Add your LinkedIn profile URL here.
 
 ---
 
 ## Quote
 
-> "Continuous learning and consistent practice build strong software."
+> "Code with purpose. Learn continuously. Build solutions that matter."
 
 ---
 
 <p align="center">
-Thanks for visiting my profile.
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1E293B,100:2563EB&section=footer"/>
+Thanks for visiting my GitHub profile.
 </p>
