@@ -1,4 +1,4 @@
-<img width="2048" height="512" alt="image" src="https://github.com/user-attachments/assets/634bbcef-24dd-4095-8557-71c18815cb0f" /><h1 align="center">Alan Thomas</h1>
+<h1 align="center">Alan Thomas</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=900&lines=MCA+Student;Web+Developer;Python+Developer;Cloud+and+DevOps+Enthusiast;Always+Learning+New+Technologies" alt="Typing Animation">
@@ -20,7 +20,7 @@ I am an MCA student at LEAD College of Management with a strong interest in web 
 
 ## Technical Skills
 
-**Programming Languages*     
+**Programming Languages**
 
 - Python
 - Java
@@ -87,7 +87,7 @@ Machine learning project for predicting Bitcoin prices using historical market d
 
 ### Memory Card Matching Game
 
-Interactive browser-based memory game built using HTML, CSS, and JavaScript.
+Interactive browser-based memory game built using HTML, CSS and JavaScript.
 
 Repository
 
@@ -138,6 +138,18 @@ https://alanatk.github.io/smart-ecommerce-checkout-workflow/
 
 ---
 
+## Current Learning
+
+- React.js
+- Node.js
+- Docker
+- Kubernetes
+- AWS Cloud
+- REST APIs
+- Cloud Architecture
+- DevOps
+
+---
 
 ## Contribution Snake
 
