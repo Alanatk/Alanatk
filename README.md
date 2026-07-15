@@ -1,12 +1,12 @@
 <h1 align="center">Alan Thomas</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=MCA+Student;Web+Developer;Python+Developer;Cloud+%26+DevOps+Enthusiast;Always+Learning+New+Technologies" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=MCA+Student;Web+Developer;Python+Developer;Cloud+%26+DevOps+Enthusiast;Always+Learning+New+Technologies" alt="Typing Animation">
 </p>
 
 <p align="center">
   <a href="https://github.com/Alanatk">
-    <img src="https://komarev.com/ghpvc/?username=Alanatk&label=Profile+Views&style=flat-square" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Alanatk&label=Profile+Views&style=flat-square" alt="Profile Views">
   </a>
 </p>
 
@@ -63,7 +63,7 @@ I enjoy building modern web applications, learning cloud technologies, and conti
 
 ## Portfolio Website
 
-Personal portfolio showcasing my projects and technical skills.
+Personal portfolio showcasing my projects, skills and experience.
 
 **Live Demo**
 
@@ -73,7 +73,7 @@ https://alan-thomas-portfolio.vercel.app/
 
 ## MNIST Digit Recognition
 
-Deep learning project using TensorFlow and Keras for handwritten digit recognition.
+Deep learning application developed using TensorFlow and Keras for handwritten digit recognition.
 
 **Live Demo**
 
@@ -83,13 +83,13 @@ https://mnistdigitrecognition.streamlit.app/
 
 ## Bitcoin Price Prediction
 
-Machine learning project that predicts Bitcoin prices using historical data and sentiment analysis.
+Machine learning project using historical market data and sentiment analysis.
 
 ---
 
 ## Memory Card Matching Game
 
-Interactive browser game built with HTML, CSS and JavaScript.
+Interactive browser-based memory game built with HTML, CSS and JavaScript.
 
 **Repository**
 
@@ -99,7 +99,7 @@ https://github.com/Alanatk/memory-card-matching-game
 
 ## Smart eCommerce Checkout Workflow
 
-Responsive checkout workflow developed with React.
+Responsive checkout workflow developed using React.
 
 **Live Demo**
 
@@ -110,8 +110,15 @@ https://alanatk.github.io/smart-ecommerce-checkout-workflow/
 # GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alanatk&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanatk&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alanatk&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&count_private=true"/>
+</p>
+
+---
+
+# Most Used Languages
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanatk&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 ---
@@ -119,7 +126,7 @@ https://alanatk.github.io/smart-ecommerce-checkout-workflow/
 # GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Alanatk&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Alanatk&theme=transparent&hide_border=true"/>
 </p>
 
 ---
@@ -127,15 +134,7 @@ https://alanatk.github.io/smart-ecommerce-checkout-workflow/
 # Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanatk&theme=tokyo-night"/>
-</p>
-
----
-
-# GitHub Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alanatk&theme=github_dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanatk&theme=github-dark"/>
 </p>
 
 ---
@@ -158,7 +157,7 @@ https://alanatk.github.io/smart-ecommerce-checkout-workflow/
 - AWS Cloud
 - REST APIs
 - Cloud Architecture
-- DevOps Practices
+- DevOps
 
 ---
 
@@ -174,13 +173,13 @@ https://alan-thomas-portfolio.vercel.app/
 
 https://github.com/Alanatk
 
-**Email**
-
-alanthomask77@gmail.com
-
 **LinkedIn**
 
 https://www.linkedin.com/in/alan-thomas-b30885276/
+
+**Email**
+
+alanthomask77@gmail.com
 
 ---
 
@@ -191,9 +190,9 @@ https://www.linkedin.com/in/alan-thomas-b30885276/
 ---
 
 <p align="center">
-  Thank you for visiting my GitHub profile.
+Thank you for visiting my GitHub profile.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:2563EB&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:2563EB&section=footer">
 </p>
