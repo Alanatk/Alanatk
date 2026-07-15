@@ -20,7 +20,7 @@ I am an MCA student at LEAD College of Management with a strong interest in web 
 
 ## Technical Skills
 
-**Programming Languages**
+**Programming Languages*     
 
 - Python
 - Java
