@@ -87,7 +87,7 @@ Machine learning project for predicting Bitcoin prices using historical market d
 
 ### Memory Card Matching Game
 
-Interactive browser-based memory game built using HTML, CSS and JavaScript.
+Interactive browser-based memory game built using HTML, CSS, and JavaScript.
 
 Repository
 
@@ -138,18 +138,6 @@ https://alanatk.github.io/smart-ecommerce-checkout-workflow/
 
 ---
 
-## Current Learning
-
-- React.js
-- Node.js
-- Docker
-- Kubernetes
-- AWS Cloud
-- REST APIs
-- Cloud Architecture
-- DevOps
-
----
 
 ## Contribution Snake
 
