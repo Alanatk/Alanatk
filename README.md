@@ -6,21 +6,23 @@
 
 <p align="center">
   <a href="https://github.com/Alanatk">
-    <img src="https://komarev.com/ghpvc/?username=Alanatk&label=Profile+Views&style=flat-square" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=Alanatk&label=Profile+Views&style=flat-square">
   </a>
 </p>
 
 ---
 
-## About Me
+# About Me
 
-I am an MCA student at LEAD College of Management with a strong interest in web development, cloud computing, and DevOps. I enjoy building practical software projects and continuously improving my programming and problem-solving skills.
+I am currently pursuing a Master of Computer Applications (MCA) at LEAD College of Management.
+
+I enjoy building web applications, learning cloud technologies, and improving my software development skills through practical projects.
 
 ---
 
-## Technical Skills
+# Technical Skills
 
-**Programming Languages**
+### Programming Languages
 
 - Python
 - Java
@@ -28,40 +30,40 @@ I am an MCA student at LEAD College of Management with a strong interest in web 
 - HTML5
 - CSS3
 
-**Frontend**
+### Frontend Development
 
 - React
 - HTML
 - CSS
 - JavaScript
 
-**Backend**
+### Backend Development
 
 - Node.js
 
-**Database**
+### Database
 
 - MySQL
 
-**Cloud & DevOps**
+### Cloud & DevOps
 
 - AWS
 - Docker
 - Git
 - GitHub
 
-**Development Tools**
+### Development Tools
 
 - Visual Studio Code
 - Linux
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Portfolio Website
+## Portfolio Website
 
-Personal portfolio showcasing my projects, technical skills and experience.
+Personal portfolio showcasing my projects, skills and experience.
 
 Live Demo
 
@@ -69,9 +71,9 @@ https://alan-thomas-portfolio.vercel.app/
 
 ---
 
-### MNIST Digit Recognition
+## MNIST Digit Recognition
 
-Deep learning application developed using TensorFlow and Keras for handwritten digit recognition.
+Deep Learning application developed using TensorFlow and Keras.
 
 Live Demo
 
@@ -79,15 +81,15 @@ https://mnistdigitrecognition.streamlit.app/
 
 ---
 
-### Bitcoin Price Prediction
+## Bitcoin Price Prediction
 
-Machine learning project for predicting Bitcoin prices using historical market data and sentiment analysis.
+Machine Learning project using historical market data and sentiment analysis.
 
 ---
 
-### Memory Card Matching Game
+## Memory Card Matching Game
 
-Interactive browser-based memory game built using HTML, CSS and JavaScript.
+Interactive browser-based memory game built with HTML, CSS and JavaScript.
 
 Repository
 
@@ -95,9 +97,9 @@ https://github.com/Alanatk/memory-card-matching-game
 
 ---
 
-### Smart eCommerce Checkout Workflow
+## Smart eCommerce Checkout Workflow
 
-Responsive checkout workflow developed using React.
+Responsive checkout workflow built using React.
 
 Live Demo
 
@@ -105,40 +107,59 @@ https://alanatk.github.io/smart-ecommerce-checkout-workflow/
 
 ---
 
-## GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alanatk&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanatk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Alanatk&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanatk&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
 
-## GitHub Streak
+# GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alanatk&theme=tokyonight&hide_border=true">
+
+<img src="https://streak-stats.demolab.com?user=Alanatk&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
 
-## Contribution Graph
+# Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanatk&theme=tokyo-night">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanatk&theme=github-dark"/>
+
 </p>
 
 ---
 
-## GitHub Summary
+# GitHub Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alanatk&theme=github_dark">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alanatk&theme=github_dark"/>
+
 </p>
 
 ---
 
-## Current Learning
+# Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Alanatk/Alanatk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# Currently Learning
 
 - React.js
 - Node.js
@@ -146,20 +167,12 @@ https://alanatk.github.io/smart-ecommerce-checkout-workflow/
 - Kubernetes
 - AWS Cloud
 - REST APIs
-- Cloud Architecture
 - DevOps
+- Cloud Architecture
 
 ---
 
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Alanatk/Alanatk/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
-## Contact
+# Connect
 
 GitHub
 
@@ -179,12 +192,16 @@ https://www.linkedin.com/in/alan-thomas-b30885276/
 
 ---
 
-## Quote
+# Quote
 
-> "Code with purpose. Learn continuously. Build solutions that matter."
+> "Continuous learning and consistent practice build great software."
 
 ---
 
 <p align="center">
 Thanks for visiting my GitHub profile.
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:2563EB&section=footer"/>
 </p>
