@@ -105,23 +105,6 @@ Responsive checkout workflow developed using React.
 
 https://alanatk.github.io/smart-ecommerce-checkout-workflow/
 
----
-
-# GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alanatk&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&count_private=true"/>
-</p>
-
----
-
-# Most Used Languages
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanatk&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
----
 
 # GitHub Streak
 
