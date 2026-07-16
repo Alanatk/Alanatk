@@ -90,3 +90,17 @@ Web Development • Cloud Computing • DevOps • Python • Machine Learning
 - Diploma in Cloud Computing
 
 ---
+---
+
+<h2 align="center">Connect</h2>
+
+<p align="center">
+
+<a href="https://github.com/Alanatk">GitHub</a> •
+<a href="https://alan-thomas-portfolio.vercel.app/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/alan-thomas-b30885276/">LinkedIn</a> •
+<a href="mailto:alanthomask77@gmail.com">Email</a>
+
+</p>
+
+---
