@@ -157,7 +157,7 @@ HTML • CSS • JavaScript
 ---
 ---
 
-# Developer Dashboard
+# GitHub Activity
 
 <p align="center">
 
