@@ -1,168 +1,142 @@
-<p align="center">
-  <img src="banner.png" width="100%" alt="Alan Thomas Banner">
-</p>
-
 <h1 align="center">Alan Thomas</h1>
 
 <p align="center">
-  Web Developer • Python Developer • Cloud & DevOps Enthusiast
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=MCA+Student;Web+Developer;Python+Developer;Cloud+%26+DevOps+Enthusiast;Always+Learning+New+Technologies" alt="Typing Animation" />
 </p>
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=MCA+Student;Web+Developer;Python+Developer;Cloud+%26+DevOps+Enthusiast;Always+Learning+New+Technologies">
+  <a href="https://github.com/Alanatk">
+    <img src="https://komarev.com/ghpvc/?username=Alanatk&label=Profile+Views&style=flat-square" alt="Profile Views"/>
+  </a>
 </p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Alanatk&label=Profile%20Views&style=flat-square">
-</p>
+
 ---
 
 # About Me
 
 I am currently pursuing a Master of Computer Applications (MCA) at LEAD College of Management.
 
-I enjoy building modern web applications, exploring cloud technologies, and improving my software engineering skills through practical projects.
+I enjoy building modern web applications, learning cloud technologies, and improving my software development skills through practical projects.
 
-My primary interests include:
-
-- Web Development
-- Python Development
-- Cloud Computing
-- DevOps
-- Machine Learning
----
+My interests include Web Development, Cloud Computing, DevOps, Python Programming and Machine Learning.
 
 ---
 
 # Technical Expertise
 
-### Programming Languages
+## Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- Python
+- Java
+- JavaScript
+- HTML5
+- CSS3
 
-### Frontend Development
+## Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- React
+- HTML
+- CSS
+- JavaScript
 
-### Backend Development
+## Backend Development
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- Node.js
 
-### Database
+## Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- MySQL
 
-### Cloud & DevOps
+## Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- AWS
+- Docker
+- Git
+- GitHub
 
-### Development Tools
+## Development Tools
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- Visual Studio Code
+- Linux
 
----
 ---
 
 # Featured Projects
 
-<table>
-<tr>
+## Portfolio Website
 
-<td width="50%" valign="top">
+Personal portfolio showcasing my projects, technical skills and experience.
 
-### Portfolio Website
+Live Demo
 
-A responsive personal portfolio showcasing my projects, skills and achievements.
+https://alan-thomas-portfolio.vercel.app/
 
-**Technology**
+---
 
-HTML • CSS • JavaScript
+## MNIST Digit Recognition
 
-**Links**
+Deep learning application developed using TensorFlow and Keras for handwritten digit recognition.
 
--  https://alan-thomas-portfolio.vercel.app/
--  https://github.com/Alanatk
+Live Demo
 
-</td>
+https://mnistdigitrecognition.streamlit.app/
 
-<td width="50%" valign="top">
+Repository
 
-### MNIST Digit Recognition
+https://github.com/Alanatk/MNIST_digit_recognition
 
-Deep Learning project using TensorFlow and Keras for handwritten digit recognition.
+---
 
-**Technology**
+## Bitcoin Price Prediction
 
-Python • TensorFlow • Keras
+Machine Learning project for predicting Bitcoin prices using historical market data and sentiment analysis.
 
-**Links**
-
--  https://mnistdigitrecognition.streamlit.app/
--  https://github.com/Alanatk/MNIST_digit_recognition
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Bitcoin Price Prediction
-
-Machine learning model for predicting Bitcoin prices using historical data and sentiment analysis.
-
-**Technology**
-
-Python • Machine Learning
-
-**Repository**
+Repository
 
 https://github.com/Alanatk
 
-</td>
+---
 
-<td width="50%" valign="top">
+## Memory Card Matching Game
 
+Interactive browser game built with HTML, CSS and JavaScript.
 
-### Memory Card Matching Game
+Repository
 
-Interactive browser game developed using HTML, CSS and JavaScript.
+https://github.com/Alanatk/memory-card-matching-game
 
-**Technology**
+Live Demo
 
-HTML • CSS • JavaScript
-
-**Links**
-
--  https://memory-card-matching-game-phi.vercel.app/
--  https://github.com/Alanatk/memory-card-matching-game
-
-</td>
-
-<td>
-
-</td>
-
-</tr>
-
-</table>
+https://memory-card-matching-game-phi.vercel.app/
 
 ---
-# GitHub Activity
+
+## Smart eCommerce Checkout Workflow
+
+Responsive checkout workflow built using React.
+
+Live Demo
+
+https://alanatk.github.io/smart-ecommerce-checkout-workflow/
+
+Repository
+
+https://github.com/Alanatk/smart-ecommerce-checkout-workflow
+
+---
+
+# GitHub Streak
 
 <p align="center">
+<img src="https://streak-stats.demolab.com?user=Alanatk&theme=github-dark&hide_border=true"/>
+</p>
 
-<img width="48%" src="https://streak-stats.demolab.com?user=Alanatk&theme=github-dark&hide_border=true"/>
+---
 
-<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alanatk&theme=github-dark&hide_border=true"/>
+# Contribution Graph
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanatk&theme=github-dark"/>
 </p>
 
 ---
@@ -170,33 +144,67 @@ HTML • CSS • JavaScript
 # Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Alanatk/Alanatk/output/github-contribution-grid-snake-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Alanatk/Alanatk/output/github-contribution-grid-snake.svg">
-
-  <img alt="Contribution Snake"
-       src="https://raw.githubusercontent.com/Alanatk/Alanatk/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alanatk/Alanatk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alanatk/Alanatk/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Alanatk/Alanatk/output/github-contribution-grid-snake.svg">
 </picture>
 
----
 ---
 
 # Certifications
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/Oracle%20Cloud-Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/IBM-Getting%20Started%20with%20AI-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ServiceNow-Micro--Certification-81B441?style=for-the-badge&logo=servicenow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Diploma-Cyber%20Security-0A66C2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Diploma-Cloud%20Computing-FF9900?style=for-the-badge"/>
-
-</p>
+- Oracle Cloud Infrastructure Foundations Associate
+- IBM SkillsBuild – Getting Started with Artificial Intelligence
+- ServiceNow Micro-Certification
+- Diploma in Cyber Security
+- Diploma in Cloud Computing
 
 ---
+
+# Current Learning
+
+- React.js
+- Docker
+- Kubernetes
+- AWS Cloud
+- REST APIs
+- Cloud Architecture
+- DevOps Practices
+
+---
+
+# Portfolio
+
+https://alan-thomas-portfolio.vercel.app/
+
+---
+
+# Contact
+
+GitHub
+
+https://github.com/Alanatk
+
+LinkedIn
+
+https://www.linkedin.com/in/alan-thomas-b30885276/
+
+Email
+
+alanthomask77@gmail.com
+
+---
+
+# Quote
+
+> "Continuous learning and consistent practice lead to better software."
+
+---
+
+<p align="center">
+Thank you for visiting my GitHub profile.
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:2563EB&section=footer"/>
+</p>
