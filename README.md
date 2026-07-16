@@ -9,3 +9,24 @@
 </p>
 
 ---
+<h2 align="center">About Me</h2>
+
+<p align="center">
+
+I am currently pursuing a <b>Master of Computer Applications (MCA)</b> at
+<b>LEAD College of Management</b>.
+
+I enjoy building responsive web applications, learning cloud technologies,
+and improving my software engineering skills through practical projects.
+
+</p>
+
+<br>
+
+<p align="center">
+
+Web Development • Cloud Computing • DevOps • Python • Machine Learning
+
+</p>
+
+---
