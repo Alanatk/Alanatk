@@ -81,9 +81,6 @@ Web Development • Cloud Computing • DevOps • Python • Machine Learning
 
 # Certifications
 
-<details>
-
-
 <br>
 
 - Oracle Cloud Infrastructure Foundations Associate
@@ -91,7 +88,5 @@ Web Development • Cloud Computing • DevOps • Python • Machine Learning
 - ServiceNow Micro-Certification
 - Diploma in Cyber Security
 - Diploma in Cloud Computing
-
-</details>
 
 ---
