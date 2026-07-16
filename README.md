@@ -181,14 +181,5 @@ HTML • CSS • JavaScript
        src="https://raw.githubusercontent.com/Alanatk/Alanatk/output/github-contribution-grid-snake.svg">
 </picture>
 
----
-# Profile Activity
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Alanatk&label=Profile+Views&style=for-the-badge"/>
-
-</p>
-
----
 
