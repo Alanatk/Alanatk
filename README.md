@@ -82,7 +82,7 @@ Web Development • Cloud Computing • DevOps • Python • Machine Learning
 # Certifications
 
 <details>
-<summary>View Certifications</summary>
+
 
 <br>
 
