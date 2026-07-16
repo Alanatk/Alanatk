@@ -155,8 +155,6 @@ HTML • CSS • JavaScript
 </table>
 
 ---
----
-
 # GitHub Activity
 
 <p align="center">
@@ -168,6 +166,7 @@ HTML • CSS • JavaScript
 </p>
 
 ---
+
 # Contribution Snake
 
 <picture>
@@ -181,5 +180,4 @@ HTML • CSS • JavaScript
        src="https://raw.githubusercontent.com/Alanatk/Alanatk/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
+---
