@@ -54,82 +54,18 @@ Web Development • Cloud Computing • DevOps • Python • Machine Learning
 `Visual Studio Code` · `Linux`
 ---
 
-# Featured Projects
+# GitHub Activity
 
-<table>
-<tr>
+<p align="center">
 
-<td width="50%" valign="top">
+<img width="49%" src="https://streak-stats.demolab.com?user=Alanatk&theme=github-dark&hide_border=true"/>
 
-### Portfolio Website
+</p>
 
-A responsive personal portfolio showcasing my projects, technical skills and experience.
+<p align="center">
 
-**Tech Stack**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanatk&theme=github-dark"/>
 
-`HTML` `CSS` `JavaScript`
+</p>
 
-**Links**
-
-- **Live:** https://alan-thomas-portfolio.vercel.app/
-
-</td>
-
-<td width="50%" valign="top">
-
-### MNIST Digit Recognition
-
-Deep learning application for handwritten digit recognition using TensorFlow and Keras.
-
-**Tech Stack**
-
-`Python` `TensorFlow` `Keras`
-
-**Links**
-
-- **Live:** https://mnistdigitrecognition.streamlit.app/
-- **GitHub:** https://github.com/Alanatk/MNIST_digit_recognition
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Bitcoin Price Prediction
-
-Machine learning model for predicting Bitcoin prices using historical data and sentiment analysis.
-
-**Tech Stack**
-
-`Python` `Machine Learning`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Memory Card Matching Game
-
-Interactive browser-based memory game.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript`
-
-**Links**
-
-- **Live:** https://memory-card-matching-game-phi.vercel.app/
-- **GitHub:** https://github.com/Alanatk/memory-card-matching-game
-
-</td>
-
-<td>
-
-</td>
-
-</tr>
-
-</table>
-
+---
