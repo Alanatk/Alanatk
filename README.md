@@ -67,4 +67,92 @@ My primary interests include:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+---
+
+# Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Portfolio Website
+
+A responsive personal portfolio showcasing my projects, skills and achievements.
+
+**Technology**
+
+HTML • CSS • JavaScript
+
+**Links**
+
+-  https://alan-thomas-portfolio.vercel.app/
+-  https://github.com/Alanatk
+
+</td>
+
+<td width="50%" valign="top">
+
+### MNIST Digit Recognition
+
+Deep Learning project using TensorFlow and Keras for handwritten digit recognition.
+
+**Technology**
+
+Python • TensorFlow • Keras
+
+**Links**
+
+-  https://mnistdigitrecognition.streamlit.app/
+-  https://github.com/Alanatk/MNIST_digit_recognition
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Bitcoin Price Prediction
+
+Machine learning model for predicting Bitcoin prices using historical data and sentiment analysis.
+
+**Technology**
+
+Python • Machine Learning
+
+**Repository**
+
+https://github.com/Alanatk
+
+</td>
+
+<td width="50%" valign="top">
+
+
+### Memory Card Matching Game
+
+Interactive browser game developed using HTML, CSS and JavaScript.
+
+**Technology**
+
+HTML • CSS • JavaScript
+
+**Links**
+
+-  https://memory-card-matching-game-phi.vercel.app/
+-  https://github.com/Alanatk/memory-card-matching-game
+
+</td>
+
+<td>
+
+</td>
+
+</tr>
+
+</table>
+
+---
 
