@@ -13,3 +13,18 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Alanatk&label=Profile%20Views&style=flat-square">
 </p>
+---
+
+# About Me
+
+I am currently pursuing a Master of Computer Applications (MCA) at LEAD College of Management.
+
+I enjoy building modern web applications, exploring cloud technologies, and improving my software engineering skills through practical projects.
+
+My primary interests include:
+
+- Web Development
+- Python Development
+- Cloud Computing
+- DevOps
+- Machine Learning
