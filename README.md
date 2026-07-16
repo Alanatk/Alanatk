@@ -182,4 +182,13 @@ HTML • CSS • JavaScript
 </picture>
 
 ---
+# Profile Activity
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Alanatk&label=Profile+Views&style=for-the-badge"/>
+
+</p>
+
+---
 
