@@ -28,3 +28,16 @@ My primary interests include:
 - Cloud Computing
 - DevOps
 - Machine Learning
+---
+
+# Technical Expertise
+
+| Category | Technologies |
+|-----------|--------------|
+| Languages | Python, Java, JavaScript |
+| Frontend | HTML5, CSS3, React |
+| Backend | Node.js |
+| Database | MySQL |
+| Cloud | AWS |
+| DevOps | Docker, Git, GitHub |
+| Tools | VS Code, Linux |
