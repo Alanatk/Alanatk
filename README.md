@@ -77,3 +77,21 @@ Web Development • Cloud Computing • DevOps • Python • Machine Learning
 </picture>
 
 ---
+---
+
+# Certifications
+
+<details>
+<summary>View Certifications</summary>
+
+<br>
+
+- Oracle Cloud Infrastructure Foundations Associate
+- IBM SkillsBuild – Getting Started with Artificial Intelligence
+- ServiceNow Micro-Certification
+- Diploma in Cyber Security
+- Diploma in Cloud Computing
+
+</details>
+
+---
