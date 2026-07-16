@@ -181,3 +181,22 @@ HTML • CSS • JavaScript
 </picture>
 
 ---
+---
+
+# Certifications
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Oracle%20Cloud-Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IBM-Getting%20Started%20with%20AI-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ServiceNow-Micro--Certification-81B441?style=for-the-badge&logo=servicenow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Diploma-Cyber%20Security-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Diploma-Cloud%20Computing-FF9900?style=for-the-badge"/>
+
+</p>
+
+---
