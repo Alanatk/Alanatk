@@ -110,26 +110,6 @@ Machine learning model for predicting Bitcoin prices using historical data and s
 
 <td width="50%" valign="top">
 
-### Smart eCommerce Checkout Workflow
-
-Responsive checkout interface built with React.
-
-**Tech Stack**
-
-`React` `JavaScript`
-
-**Links**
-
-- **Live:** https://alanatk.github.io/smart-ecommerce-checkout-workflow/
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
 ### Memory Card Matching Game
 
 Interactive browser-based memory game.
